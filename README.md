@@ -2,10 +2,10 @@
 
 ### to run:
 make
-./runsim ./tracks.txt ./trains.txt
+> ./main tracks.txt trains.txt
 
 to clean directory:
-make -clean
+> make -clean
 
 ps: must be entered in that order arg1 tracks file and arg2 trains file
 
