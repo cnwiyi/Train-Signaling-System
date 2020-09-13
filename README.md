@@ -68,5 +68,5 @@ trains.txt
 2 9
 ```
 
-## Improvements and Optimatizations:
+## Improvements and Optimizations:
 - trains text file should take in train name, start station, end station, train length and train speed (sec/segment).
